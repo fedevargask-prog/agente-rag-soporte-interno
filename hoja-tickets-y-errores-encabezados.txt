@@ -1,0 +1,3 @@
+Hoja "Tickets":  fecha | canal | email | nombre | area | pregunta | categoria | decision | respuesta | confianza | fuentes | prioridad | motivo_escalamiento | estado
+Hoja "Errores":  fecha | workflow | nodo | mensaje | execution_url
+Hoja "Empleados": email | nombre | area | rol | activo | fecha_ingreso   (ver hoja-empleados.csv)

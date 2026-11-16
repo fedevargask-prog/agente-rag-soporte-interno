@@ -1,0 +1,4 @@
+email,nombre,area,rol,activo,fecha_ingreso
+lucia.fernandez@acme.example,Lucía Fernández,Operaciones,Analista,SI,2023-03-13
+martin.gomez@acme.example,Martín Gómez,Finanzas,Contador,SI,2019-08-01
+ex.empleado@acme.example,Ex Empleado,Ventas,Ejecutivo,NO,2020-01-10
